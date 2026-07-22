@@ -45,3 +45,4 @@ next-env.d.ts
 # Ignore Claude Code workspace and local configuration
 .claude/
 .agents/
+.windsurf/
